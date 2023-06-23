@@ -1,7 +1,7 @@
 """ 
 Class for storing the letter dictionary. As well as applying formatting to the letters.
 """
-from letter_dict import letter_dict
+from .letter_dict import letter_dict
 
 
 class Letter:
